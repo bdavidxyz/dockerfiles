@@ -2,7 +2,7 @@
 #
 # Usage
 #   docker run davidb583/casperjs casperjs --version
-#   docker run cmfatih/phantomjs phantomjs --version
+#   docker run davidb583/casperjs phantomjs --version
 
 FROM ubuntu:14.04
 
